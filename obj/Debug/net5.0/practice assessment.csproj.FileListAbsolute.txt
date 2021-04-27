@@ -1,0 +1,16 @@
+S:\practice assessment\bin\Debug\net5.0\practice assessment.exe
+S:\practice assessment\bin\Debug\net5.0\practice assessment.deps.json
+S:\practice assessment\bin\Debug\net5.0\practice assessment.runtimeconfig.json
+S:\practice assessment\bin\Debug\net5.0\practice assessment.runtimeconfig.dev.json
+S:\practice assessment\bin\Debug\net5.0\practice assessment.dll
+S:\practice assessment\bin\Debug\net5.0\ref\practice assessment.dll
+S:\practice assessment\bin\Debug\net5.0\practice assessment.pdb
+S:\practice assessment\obj\Debug\net5.0\practice assessment.csprojAssemblyReference.cache
+S:\practice assessment\obj\Debug\net5.0\practice assessment.GeneratedMSBuildEditorConfig.editorconfig
+S:\practice assessment\obj\Debug\net5.0\practice assessment.AssemblyInfoInputs.cache
+S:\practice assessment\obj\Debug\net5.0\practice assessment.AssemblyInfo.cs
+S:\practice assessment\obj\Debug\net5.0\practice assessment.csproj.CoreCompileInputs.cache
+S:\practice assessment\obj\Debug\net5.0\practice assessment.dll
+S:\practice assessment\obj\Debug\net5.0\ref\practice assessment.dll
+S:\practice assessment\obj\Debug\net5.0\practice assessment.pdb
+S:\practice assessment\obj\Debug\net5.0\practice assessment.genruntimeconfig.cache
